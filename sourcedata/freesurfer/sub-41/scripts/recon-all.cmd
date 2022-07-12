@@ -1,1 +1,1 @@
-/annex/objects/MD5E-s4040--e6f5bd7063224fdae06bd51a5bc5f612.cmd
+../../../../.git/annex/objects/1G/WP/MD5E-s8669--49aef5c2b499ef065dfc063c4c9baed8.cmd/MD5E-s8669--49aef5c2b499ef065dfc063c4c9baed8.cmd
